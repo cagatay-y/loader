@@ -1,1 +1,6 @@
+cloud-hypervisor-static
+CLOUDHV.fd
+esp.fat
+foo
+hermit-app
 target
